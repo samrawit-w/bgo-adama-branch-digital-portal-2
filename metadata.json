@@ -1,0 +1,6 @@
+{
+  "name": "BGO Adama Branch Digital Portal",
+  "description": "Digital portal for Busaa Gonofaa Oromiyaa (BGO) Adama Branch, showcasing financial services, Oromo community contributions, news, and microfinance platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
